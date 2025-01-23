@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902799490937",
+    "project_id": "pinkchatapplication",
+    "storage_bucket": "pinkchatapplication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902799490937:android:721f21bb7b9a28c3f039a8",
+        "android_client_info": {
+          "package_name": "com.pinkchatapplication.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXuTnhVFQbbTLu1IecACwUPXivexqTKUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
